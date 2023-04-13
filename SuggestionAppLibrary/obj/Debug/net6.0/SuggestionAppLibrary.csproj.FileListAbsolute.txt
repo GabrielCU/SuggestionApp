@@ -1,0 +1,12 @@
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.deps.json
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.dll
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\bin\Debug\net6.0\SuggestionAppLibrary.pdb
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.csproj.AssemblyReference.cache
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.AssemblyInfoInputs.cache
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.AssemblyInfo.cs
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.dll
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\refint\SuggestionAppLibrary.dll
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\SuggestionAppLibrary.pdb
+F:\dev\Personal\SuggestionApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net6.0\ref\SuggestionAppLibrary.dll
